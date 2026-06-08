@@ -8,4 +8,4 @@ AI 엔지니어 손주용입니다. <br>
 
 ## 스킬
 **DATA ANALYTICS**
-'SQL' 'Python' 'R' 'Tableau'
+'SQL', 'Python', 'R', 'Tableau'
