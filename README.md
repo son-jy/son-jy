@@ -15,3 +15,6 @@ AI 엔지니어 손주용입니다. <br>
 
 ### AI
 `YOLO` `Tensorflow` `Pytorch` `LLM&RAG`
+
+<hr size="5" effect="linear">
+
