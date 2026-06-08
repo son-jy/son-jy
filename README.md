@@ -7,9 +7,11 @@ AI 엔지니어 손주용입니다. <br>
 <hr size="5" effect="linear">
 
 ## 스킬
-- DATA ANALYTICS
+### DATA ANALYTICS
 `SQL` `Python` `R` `Tableau`
-- DATA PIPELINE
+
+### DATA PIPELINE
 `Linux` `Hadoop` `Spark` `MongoDB`
-- AI
+
+### AI
 `YOLO` `Tensorflow` `Pytorch` `LLM&RAG`
