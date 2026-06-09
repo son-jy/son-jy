@@ -13,7 +13,7 @@ AI 엔지니어 손주용입니다. <br>
 
 **E :** sjo980706@hanmail.net
 
-**Notion :** 📄[바로가기](https://app.notion.com/p/de2df982be6583dcb2ba8147a09f0e20?source=copy_link)
+**Notion :** 📄[바로가기](https://bit.ly/notion_jy)
 
 <hr size="5" effect="linear">
 
