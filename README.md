@@ -28,8 +28,6 @@ AI 엔지니어 손주용입니다. <br>
 
 `Python` `Jupyter` `Pandas` `scikit-learn` `numpy` `matplotlib` `seaborn` `Folium`
 
-<hr style="border: 0; height: 1px; background: #e1e4e8; margin: 30px 0;"/>
-
 ### 보행 약자를 위한 통행 보조 시스템 개발
 | 카메라로 위험 요소를 감지하고 다양한 방식으로 안내하는 약자 보호 서비스 구현
 
