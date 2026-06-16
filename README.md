@@ -4,7 +4,7 @@
 AI 엔지니어 손주용입니다. <br>
 꼼꼼함, 문제 해결력, 커뮤니케이션 능력이 제 장점입니다.
 
-<hr size="5" effect="linear">
+---
 
 ## Skills
 ##### DATA ANALYTICS
@@ -16,7 +16,7 @@ AI 엔지니어 손주용입니다. <br>
 ##### AI
 `YOLO` `Tensorflow` `Pytorch` `LLM&RAG`
 
-<hr size="5" effect="linear">
+---
 
 ## Projects
 ### 카페 창업을 위한 서울시 상권 입지 분석
@@ -27,8 +27,6 @@ AI 엔지니어 손주용입니다. <br>
 - 유동인구 및 매출 기반 4개 군집화 수행 및 오피스·상업지 등 컨셉별 맞춤형 입지 전략 도출
 
 `Python` `Jupyter` `Pandas` `scikit-learn` `numpy` `matplotlib` `seaborn` `Folium`
-
----
 
 ### 보행 약자를 위한 통행 보조 시스템 개발
 | 카메라로 위험 요소를 감지하고 다양한 방식으로 안내하는 약자 보호 서비스 구현
