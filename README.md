@@ -29,4 +29,4 @@ AI 엔지니어 손주용입니다. <br>
 - 프로젝트 기획, 데이터 수집, 전체 개발 일정 총괄 관리 (팀장, 5인)
 - YOLOv8 모델을 활용하여 통행에 필요한 핵심 객체들을 실시간으로 탐지
 - OpenCV 색상 필터, TTS 음성 안내, 안내 메시지 텍스트화 기능을 융합하여 신호등 상태 파악 및 위험 정보를 시·청각적으로 동시 전달
-`Python` `Jupyter` `Pandas` `scikit-learn` `numpy` `matplotlib` `seaborn` `Folium`
+`Python` `numpy` `Jupyter` `corab` `pytorch` `YOLO` `OpenCV` `FFmpeg`
