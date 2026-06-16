@@ -21,3 +21,4 @@ AI 엔지니어 손주용입니다. <br>
 ## Projects
 ##### 카페 창업을 위한 서울시 상권 입지 분석
 
+`Python` `Jupyter` `Pandas` `scikit-learn` `numpy` `matplotlib` `seaborn` `Folium`
