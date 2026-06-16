@@ -6,18 +6,7 @@ AI 엔지니어 손주용입니다. <br>
 
 <hr size="5" effect="linear">
 
-## 연락처
-**T :** 010-3171-3264
-
-**A :** 경기도 안양시 동안구 관양동
-
-**E :** sjo980706@hanmail.net
-
-**Notion :** 📄[바로가기](https://bit.ly/notion_jy)
-
-<hr size="5" effect="linear">
-
-## 스킬
+## Skills
 ##### DATA ANALYTICS
 `SQL` `Python` `R` `Tableau`
 
@@ -28,4 +17,7 @@ AI 엔지니어 손주용입니다. <br>
 `YOLO` `Tensorflow` `Pytorch` `LLM&RAG`
 
 <hr size="5" effect="linear">
+
+## Projects
+##### 카페 창업을 위한 서울시 상권 입지 분석
 
