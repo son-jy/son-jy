@@ -49,3 +49,5 @@ AI 엔지니어 손주용입니다. <br>
 - OpenCV 색상 필터, TTS 음성 안내, 안내 메시지 텍스트화 기능을 융합하여 신호등 상태 파악 및 위험 정보를 시·청각적으로 동시 전달
 
 `Python` `numpy` `Jupyter` `corab` `pytorch` `YOLO` `OpenCV` `FFmpeg`
+
+---
