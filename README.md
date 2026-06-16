@@ -13,8 +13,8 @@ AI 엔지니어 손주용입니다. <br>
 ##### DATA PIPELINE
 `Linux` `Hadoop` `Spark` `MongoDB`
 
-##### AI
-`YOLO` `Tensorflow` `Pytorch` `LLM&RAG`
+##### AI&LLM
+`RAG` `LangChain` `Langraph` `YOLO` `Tensorflow` `Pytorch`
 
 ---
 
