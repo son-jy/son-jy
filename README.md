@@ -26,7 +26,7 @@ AI 엔지니어 손주용입니다. <br>
 - LangChain/LangGraph 기반 RAG 파이프라인을 설계하여 기업 맞춤형 가이드라인 정보 기반의 정확성 높은 꼬리질문 생성
 - 생성된 피드백을 TTS 및 FFmpeg 오디오 제어 기술로 변환하여 실시간 음성 가이드라인을 동시 전달하는 HTML 웹 인터페이스 구현
 
-`Python` `Gemma 2 9b` `LangChain` `LangGraph` `FastAPI` `TTS` `FFmpeg` `HTML/CSS`
+`Python` `Gemma 2 9b` `LangChain` `LangGraph` `FastAPI` `TTS` `HTML/CSS`
 
 ---
 
