@@ -51,3 +51,7 @@ AI 엔지니어 손주용입니다. <br>
 `Python` `numpy` `Jupyter` `corab` `pytorch` `YOLO` `OpenCV` `FFmpeg`
 
 ---
+
+## Contacts
+- **E-mail:** sjo980706@hanmail.com
+- ""Notion:"" [바로가기]()
