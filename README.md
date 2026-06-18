@@ -26,7 +26,7 @@ AI 엔지니어 손주용입니다. <br>
 - K-means++ 알고리즘 도입으로 초기값 왜곡과 주관적 선입견을 배제한 객관적 분석 신뢰성 확보
 - 유동인구 및 매출 기반 4개 군집화 수행 및 오피스·상업지 등 컨셉별 맞춤형 입지 전략 도출
 
-`Python` `Jupyter` `Pandas` `scikit-learn` `numpy` `matplotlib` `seaborn` `Folium`
+`Python` `RAG` `LLM` `Langchain`
 
 ---
 
