@@ -54,4 +54,4 @@ AI 엔지니어 손주용입니다. <br>
 
 ## Contacts
 - **E-mail:** sjo980706@hanmail.com
-- ""Notion:"" [바로가기]()
+- **Notion:** [바로가기](https://bit.ly/notion_jy)
