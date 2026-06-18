@@ -7,7 +7,7 @@ AI 엔지니어 손주용입니다. <br>
 ---
 
 ## Skills
-##### AI&LLM
+##### AI & LLM
 `RAG` `LangChain` `Langraph` `YOLO` `Tensorflow` `Pytorch`
 
 ##### DATA ANALYTICS
