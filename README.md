@@ -23,7 +23,7 @@
 | 오픈소스 LLM과 RAG 기술을 활용한 맞춤형 면접 피드백 웹 서비스 구현
 
 - Gemma 모델과 고성능 비동기 FastAPI를 연동하여 대기 시간을 최소화한 경량형 LLM 웹 서비스 구축
-- LangChain/LangGraph 기반 RAG 파이프라인을 설계하여 기업 맞춤형 가이드라인 정보 기반의 정확성 높은 꼬리질문 생성
+- LangChain 및 LangGraph 기반의 RAG 파이프라인을 설계하여 지원자 이력서와 연계된 정확도 높고 일관성 있는 꼬리질문 생성
 - 생성된 피드백을 TTS 및 FFmpeg 오디오 제어 기술로 변환하여 실시간 음성 가이드라인을 동시 전달하는 Streamlit 웹 인터페이스 구현
 
 `Python` `Streamlit` `Gemma2 9b` `Ollama` `Langchain` `Chroma` `HuggingFace` `TTS` `STT` `MariaDB` `FastAPI` `Python-docx` `git` `Github`
