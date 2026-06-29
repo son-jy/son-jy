@@ -8,7 +8,7 @@
 
 ## Skills
 ##### AI & LLM
-`RAG` `LangChain` `Langraph` `YOLO` `Tensorflow` `Pytorch`
+`RAG` `LangChain` `Langraph` `YOLO` `TensorFlow` `PyTorch`
 
 ##### DATA ANALYTICS
 `SQL` `Python` `R` `Tableau`
