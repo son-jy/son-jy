@@ -26,7 +26,7 @@
 - LangChain 기반의 RAG 파이프라인을 설계하여 지원자 이력서와 연계된 정확도 높고 일관성 있는 꼬리질문 생성
 - 생성된 질문을 STT/TTS 및 오디오 제어 기술로 변환하여 실제 면접과 유사한 양방향 실시간 보이스 인터페이스 구현
 
-`Python` `Streamlit` `Gemma2 9B` `Ollama` `Langchain` `Chroma` `HuggingFace` `TTS` `STT` `MariaDB` `FastAPI` `Python-docx` `git` `Github`
+`Python` `Streamlit` `Gemma2 9B` `Ollama` `LangChain` `Chroma` `HuggingFace` `TTS` `STT` `MariaDB` `FastAPI` `Python-docx` `git` `Github`
 
 ---
 
